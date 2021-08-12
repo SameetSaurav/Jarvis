@@ -1,0 +1,5 @@
+I automated Dinosaur game of chrome using Python. If PyAudio module not found error occurs then download PyAudio plugin from this website https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio ... and add this file using terminal.
+
+Add your path where your music files are stored in this code line { music_dr='D:\\zenfone music' } to play music.
+
+Add your path where VLC is stored in this code line { codepath= "E:\\Program Files (x86)\\VLC" } to play VLC 
